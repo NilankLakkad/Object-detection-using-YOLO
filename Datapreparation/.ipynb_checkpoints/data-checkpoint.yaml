@@ -1,0 +1,26 @@
+train: data_images/train
+test: data_images/test
+val: data_images/test
+nc: 20
+names: [
+    'person',
+    'car',
+    'chair',
+    'dog',
+    'diningtable',
+    'bottle',
+    'cat',
+    'bus',
+    'tvmonitor',
+    'boat',
+    'bicycle',
+    'bird',
+    'aeroplane',
+    'sheep',
+    'sofa',
+    'horse',
+    'motorbike',
+    'pottedplant',
+    'train',
+    'cow'
+]
